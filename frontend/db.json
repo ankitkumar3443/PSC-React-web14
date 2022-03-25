@@ -1,0 +1,258 @@
+{
+  "books":[
+      {
+          "title":"The Bald Eagle: The Improbable Journey of America's Bird",
+          "imageUrl":"https://m.media-amazon.com/images/I/51SfRUEVryL.jpg",
+          "description":"The bald eagle is regal but fearless, a bird you’re not inclined to argue with. For centuries, Americans have celebrated it as “majestic” and “noble,” yet savaged the living bird behind their national symbol as a malicious predator of livestock and, falsely, a snatcher of babies. Taking us from before the nation’s founding through inconceivable resurgences of this enduring all-American species, Jack E. Davis contrasts the age when native peoples lived beside it peacefully with that when others, whether through hunting bounties or DDT pesticides, twice pushed Haliaeetus leucocephalus to the brink of extinction.",
+          "reviews":[
+              "An impressive work of scholarship . . . . if you have any questions about our national bird, Mr. Davis’s The Bald Eagle is a great place to look for answers.",
+              "Splendid.... [Davis] is a meticulous historian and researcher as well as a master storyteller – an irresistible combination.",
+              "Combining natural, political, and cultural histories, Davis offers a wealth of surprising information and demolishes popular misconceptions . . . Well-timed humor... keeps things moving, and his writing is vivid . . . This account soars.",
+              "This fascinating and readable work will appeal to fans of the majestic bald eagle and those interested in the natural, cultural, and political history of the United States."
+          ],
+          "author":"Jack E. Davis",
+          "price":1449,
+          "section":"history",
+          "isbnNumber":253421,
+          "id":1
+      },{
+          "title":"Against All Odds: A True Story of Ultimate Courage and Survival in World War II",
+          "imageUrl":"https://m.media-amazon.com/images/I/51NozKQlvDL.jpg",
+          "description":"As the Allies raced to defeat Hitler, four men, all in the same unit, earned medal after medal for battlefield heroism. Maurice “Footsie” Britt, a former professional football player, became the very first American to receive every award for valor in a single war. Michael Daly was a West Point dropout who risked his neck over and over to keep his men alive. Keith Ware would one day become the first and only draftee in history to attain the rank of general before serving in Vietnam. In WWII, Ware owed his life to the finest soldier he ever commanded, a baby-faced Texan named Audie Murphy. In the campaign to liberate Europe, each would gain the ultimate accolade, the Congressional Medal of Honor.",
+          "reviews":[
+              "Against All Odds is a timely reminder of the horrors of war and valor and sacrifices of the Greatest Generation.",
+              "“In his latest book of popular World War II history, bestselling author Kershaw tells the stories of four Americans who won the Medal of Honor and lived postwar lives that sometimes kept them in the public eye… Realistic portraits of four American superheroes.”",
+              "“Alex Kershaw is the master of putting the reader in the heat of the action. Against All Odds is vivid and compelling, a crisp narrative about heroism, war, and going above and beyond the call of duty.”"
+          ],
+          "author":"Alex Kershaw ",
+          "price":850,
+          "section":"history",
+          "isbnNumber":253421,
+          "id":2
+      },{
+          "title":"We Don't Know Ourselves: A Personal History of Modern Ireland  ",
+          "imageUrl":"https://m.media-amazon.com/images/I/51DFCQO2QNS.jpg",
+          "description":"Fintan O’Toole was born in the year the revolution began. It was 1958, and the Irish government—in despair, because all the young people were leaving—opened the country to foreign investment and popular culture. So began a decades-long, ongoing experiment with Irish national identity. In We Don’t Know Ourselves, O’Toole, one of the Anglophone world’s most consummate stylists, weaves his own experiences into Irish social, cultural, and economic change, showing how Ireland, in just one lifetime, has gone from a reactionary “backwater” to an almost totally open society—perhaps the most astonishing national transformation in modern history.",
+          "reviews":[
+              "A landmark history.... Leavened by the brilliance of O'Toole's insights and wit, and by the story of his own life, which he expertly intertwines into a larger historical narrative... [He] sees the country's shift with an eye that is simultaneously critical and compassionate... O'Toole's is a wildly ambitious project, one that accounts for inevitable partiality precisely through this invocation of the personal. It is a winning gambit.",
+              "[S]parkling . . . we encounter O’Toole as a Zelig-like figure with an amusingly personal chain of connections to the great events and characters . . . the quiet heroes of We Don’t Know Ourselves are the Irish people, who O’Toole shows to have been ahead of their political and spiritual leaders in being ready to face the contradictions that underpinned national life . . . an uplifting, almost playful read, with suggestive analysis lying beneath skillful vignettes.",
+              "“A clear-eyed, myth-dispelling masterpiece. Engaging, analytical, insightful, fascinating, this is a hugely important book.”",
+              "“A remarkably original, fluent and absorbing book, with the pace and twists of an enthralling novel and the edge of a fine sword, underpinned by a profound humaneness.”"
+          ],
+          "author":"Fintan O'Toole",
+          "price":4000,
+          "section":"history",
+          "isbnNumber":253421,
+          "id":3
+      },{
+          "title":"The War That Made the Roman Empire: Antony, Cleopatra, and Octavian at Actium",
+          "imageUrl":"https://m.media-amazon.com/images/I/51sSkNMlZNL.jpg",
+          "description":"The Battle of Actium had great consequences for the empire. Had Antony and Cleopatra won, the empire’s capital might have moved from Rome to Alexandria, Cleopatra’s capital, and Latin might have become the empire’s second language after Greek, which was spoken throughout the eastern Mediterranean, including Egypt.",
+          "reviews":[
+              "“Actium was one of the most important battles in history, and Barry Strauss brings this stunning maritime collision vividly to life.” (Admiral James Stavridis, USN (Ret) 16th Supreme Allied Commander at NATO and author of Sea Power: The History and Geopolitics of the World's Oceans )",
+              "A master historian of the ancient world’s wars turns his attention to the battle that laid the foundations for the Roman Empire. . . . Few historians can bring such a battle alive better than Strauss. . . . It must now be considered the most up-to-date history of its subject.",
+              "A grandiose love affair, doomed lovers, a trio of titanic rivals, deadly political intrigue, culminating in a seismic battle at sea—historian Barry Strauss is the perfect narrator for this epic episode in ancient empire-building.",
+               "A gripping account of the war for control of the Roman Empire. . . . [Strauss] has an eye for telling details and a knack for explaining the era’s complex political alliances and rivalries in clear terms. Ancient history buffs will be riveted."
+          ],
+          "author":"Barry Strauss",
+          "price":4990,
+          "section":"history",
+          "isbnNumber":253421,
+          "id":4
+      },{
+          "title":"The Jesuits: A History",
+          "imageUrl":"https://m.media-amazon.com/images/I/51GQBO7IVnS.jpg",
+          "description":"Since its founding by Ignatius of Loyola in 1540, the Society of Jesus—more commonly known as the Jesuits—has played a critical role in the events of modern history. From the Counter-Reformation to the ascent of Francis I as the first Jesuit pope, The Jesuits presents an intimate look at one of the most important religious orders not only in the Catholic Church, but also the world. Markus Friedrich describes an organization that has deftly walked a tightrope between sacred and secular involvement and experienced difficulties during changing times, all while shaping cultural developments from pastoral care and spirituality to art, education, and science.",
+          "reviews":[
+              "A fast-paced and richly researched history. . . .Friedrich’s sweeping chronicle has much to offer.",
+              "“Except perhaps for the church it serves, the Society of Jesus has had more global reach and resonance than any other institution over the past half millennium. Clearly, deftly, and deeply, Markus Friedrich explains how it happened against all odds. In this book, we follow the fortunes of the Company, meet Jesuits of every stripe of sin and sanctity, and learn what has made the order so profoundly loved and so heartily hated.”",
+              "“This masterfully crafted book is a major achievement. The Jesuits offers a comprehensive and compelling account of one of the most influential religious orders in global history.”"
+          ],  
+          "author":"Markus Friedrich",
+          "price":6999,
+          "section":"history",
+          "isbnNumber":253421,
+          "id":5
+      },{
+          "title":"End of Days: A Pike Logan Novel (A Pike Logan Thriller Book 16)",
+          "imageUrl":"https://m.media-amazon.com/images/I/5106FKaNOML.jpg",
+          "description":"When a paragliding trip over the picturesque mountains of Switzerland results in the brutal murder of the former head of Israeli intelligence, Mossad brings in terrorist hunters Aaron and Shoshana to investigate. But they'll need help to find out who was behind the attack and what they’re planning next. Luckily, Aaron and Shoshana know exactly who to call.",
+          "reviews":[
+              "“Taut . . . a memorable cast, powerful action scenes, and authentic tradecraft . . . Series fans will appreciate the continuing evolution of the characters and the customary attention to tactical detail. Taylor reinforces his place as a major player in the military action section.”",
+              "American Traitor is frighteningly realistic and will cause a lot of sleepless nights in Washington. Brad Taylor is the best action writer in the business today, and Pike Logan is the right hero for our time.",
+              "“Taylor, who relies on his own elite experience in the Special Forces for both detail and authenticity, has never been better, and neither has his literary doppelganger, Pike Logan.” ","[S]parkling . . . we encounter O’Toole as a Zelig-like figure with an amusingly personal chain of connections to the great events and characters . . . the quiet heroes of We Don’t Know Ourselves are the Irish people, who O’Toole shows to have been ahead of their political and spiritual leaders in being ready to face the contradictions that underpinned national life . . . an uplifting, almost playful read, with suggestive analysis lying beneath skillful vignettes.",
+              "“Lose yourself in American Traitor and find yourself remembering what makes this country so great.”"
+          ],
+          "author":"Brad Taylor",
+          "price":1299,
+          "section":"mystery",
+          "isbnNumber":253421,
+          "id":6
+      },{
+          "title":"Billy Summers",
+          "imageUrl":"https://m.media-amazon.com/images/I/51f2iIrG6TL.jpg",
+          "description":"Billy Summers is a man in a room with a gun. He’s a killer for hire and the best in the business. But he’ll do the job only if the target is a truly bad guy. And now Billy wants out. But first there is one last hit. Billy is among the best snipers in the world, a decorated Iraq war vet, a Houdini when it comes to vanishing after the job is done. So what could possibly go wrong?",
+          "reviews":[
+              "“Billy Summers is an ambitious, controlled and compelling shapeshifter of a book: combat novel, platonic romance, noir caper, portrait of an artist coming of belated age. Its pleasures are numerous, and it touches the mind, heart and nervous system in equal measure.",
+              "“A tense, absorbing story about a brainy hitman struggling to go straight — and the author’s best novel in many years... an engrossing read, deftly plotted, suitably hard-boiled, and at times almost magically imagined.",
+              "“A noirish, unputdownable thriller that’s also King’s best book about his own craft since On Writing.”"
+          ],
+          "author":"Stephen King",
+          "price":799,
+          "section":"mystery",
+          "isbnNumber":253421,
+          "id":7
+      },{
+          "title":"Harry Potter: The Complete Collection",
+          "imageUrl":"https://m.media-amazon.com/images/I/41oQvhIWahL.jpg",
+          "description":"Having now become classics of our time, the Harry Potter ebooks never fail to bring comfort and escapism to readers of all ages. With its message of hope, belonging and the enduring power of truth and love, the story of the Boy Who Lived continues to delight generations of new readers.",
+          "reviews":[
+              "Do not buy this! I recently read that Amazon sells pirated books (because they don't check--they take the money no matter what they sell)-- which means, not only are the prints not authorized--which is a legal issue, but for the consumer experience, it's detrimental as well.",
+              "This box set is printed on such coarse paper (paper feels like industrial pulp), the ink becomes blurred and hard to read. Worse yet, I gave them to my daughter (who is too young to know about print quality and thus never complained), and she had to squint through volumes of this crappy print that totally ruined her eyesight, before I realized what was going on. Amazon--you need to do better than this!",
+              "Beautiful covers and tough packaging. Bought these for my neices and nephews. I can read them but they are having trouble because the print on the pages. Several are blurry like this and book 1 (currently in my neices possession) has several pages with light spots down the middle and you can barely make out the words. They keep bringing the books to us for help. Haven't been into the other 4 books yet. I imagine they will be similar."
+          ],
+          "author":"J.K. Rowling",
+          "price":19999,
+          "section":"mystery",
+          "isbnNumber":253421,
+          "id":8
+      },{
+          "title":"The Ice Maiden (Doug Bateman Mystery Book 1)",
+          "imageUrl":"https://m.media-amazon.com/images/I/41aQCw4YRhL.jpg",
+          "description":"Doug Bateman is barely keeping it together. Still grieving over his son's death and with his marriage crumbling, the Maine State Police detective's ties to his small town is one of the few things giving him comfort. So he's horrified by the discovery of a mutilated corpse in the local lake... especially when evidence points to torture by methods of the Spanish Inquisition.",
+          "reviews":[
+              "I guess my review is an outlier. I read one two-star review entitled Boring which seemed to agree with mine. The writing style is professional enough that it appears to be a serious attempt by an accomplished writer. Still, I am overwhelmed with the quantity of rave reviews for this book. To be frank, it was really boring.",
+              "The blurb for the book promised an extremely exciting thriller involving a serial killer who murdered his victims in the style of the Spanish Inquisition. This is an intriguing premise that gives promise to an exciting, if not somewhat gory, thriller."
+          ],
+          "author":"B.D. Smith",
+          "price":10,
+          "section":"mystery",
+          "isbnNumber":253421,
+          "id":9
+      },{
+          "title":"Mercy (Atlee Pine Book 4)",
+          "imageUrl":"https://m.media-amazon.com/images/I/516yFOISrwL.jpg",
+          "description":"For her entire life, FBI agent Atlee Pine has been searching for her twin sister, Mercy, who was abducted at the age of six and never seen again. Mercy’s disappearance left behind a damaged family that later shattered beyond repair when Atlee’s parents inexplicably abandoned her.",
+          "reviews":[
+              "People, praise for the author",
+              "In fact I will re-read this series because this was just a brilliant story. All the back stories aligned, the gals did what they do best and the bad guys got their comeuppance in the very best of ways.",
+              "I can't believe that Baldacci wrote that book. It defies even basic logic and the happy end is contrived beyond belief. You are almost expected to hear violins when the sisters walk into the sunset. Along the way Puller is no longer mentioned. The amount of cruelty and savagery is cringe worthy. Attlee jetting through American on her father's jet is the final straw.",
+              "I'm amazed that the distribution of reviews of the Camel Club, King and Maxwell, and so many other works that were great pleasures to read are virtually identical to this book. I hate to be in the bottom 2% this time."
+          ],
+          "author":"David Baldacci",
+          "price":1990,
+          "section":"mystery",
+          "isbnNumber":253421,
+          "id":10
+      },{
+          "title": "The Immortals of Meluha",
+          "author": "Amish Tripathi",
+          "imageUrl": "https://upload.wikimedia.org/wikipedia/en/0/0e/The_Immortals_Of_Meluha.jpg",
+          "description": "The Immortals of Meluha is the first book of Amish Tripathi, first book of Amishverse, and also the first book of Shiva Trilogy. The story is set in the land of Meluha and starts with the arrival of the Shiva. The Meluhans believe that Shiva is their fabled saviour Neelkanth. Shiva decides to help the Meluhans in their war against the Chandravanshis, who had joined forces with a cursed Nagas; however, during his journey and the fight that ensues, Shiva learns how his choices actually reflect who he aspires to be and how they lead to dire consequences.",
+          "reviews": ["excellent", "good", "not bad", "very bad"],
+          "price": 300,
+          "section": "mythology",
+          "isbnNumber":253421,
+          "id": 11
+      },
+      {
+          "title": "The Secret of the Nagas",
+          "author": "Amish Tripathi",
+          "imageUrl": "https://upload.wikimedia.org/wikipedia/en/7/78/The_Secret_of_the_Nagas.jpg",
+          "description": "The Secret of the Nagas is the second book of Amish Tripathi, second book of Amishverse, and also the second book of Shiva Trilogy. The story takes place in the imaginary land of Meluha and narrates how the inhabitants of that land are saved from their wars by a nomad named Shiva. It begins from where its predecessor, The Immortals of Meluha, left off, with Shiva trying to save Sati from the invading Naga. Later Shiva takes his troop of soldiers and travels far east to the land of Branga, where he wishes to find a clue to reach the Naga people. Shiva also learns that Sati's first child is still alive, as well as her twin sister. His journey ultimately leads him to the Naga capital of Panchavati, where he finds a surprise waiting for him.",
+          "reviews": ["excellent", "good", "not bad", "very bad"],
+          "price": 400,
+          "section": "mythology",
+          "isbnNumber":253421,
+          "id": 12
+      },
+      {
+          "title": "Scion of Ikshvaku",
+          "author": "Amish Tripathi",
+          "imageUrl": "https://upload.wikimedia.org/wikipedia/en/5/57/Scion_of_Ikshvaku_cover.jpg",
+          "description": "Scion of Ikshvaku (also known as Ram: Scion of Ikshvaku) is a one to one replica of the events taking place before the epic tale \"Ramayana\" and also the fourth book of Amish Tripathi, fourth book of Amishverse, and first book of Ram Chandra Series. It was released on 22 June 2015. It is based on Ram, the legendary Indian king regarded as an incarnation of Vishnu. The title was revealed by the author at the Jaipur Literature Festival. The story begins with King Dashrath of Ayodhya being defeated in a war by Lankan trader Raavan, and the birth of his son Ram.",
+          "reviews": ["excellent", "good", "not bad", "very bad"],
+          "price": 599,
+          "section": "mythology",
+          "isbnNumber":253421,
+          "id": 13
+      },
+      {
+          "title": "The Oath of the Vayuputras",
+          "author": "Amish Tripathi",
+          "imageUrl": "https://upload.wikimedia.org/wikipedia/en/e/e5/The_Oath_of_the_Vayuputras.jpg",
+          "description": "The Oath of the Vayuputras is the third book of Amish Tripathi, third book of Amishverse, and also the third book of Shiva Trilogy. The book was released on 27 February 2013, through Westland Press and completes the mythical story about an imaginary land Meluha and how its inhabitants were saved by a barbarian named Shiva. Starting from where the previous installment left off, Shiva discovers what is the true evil in The Oath of the Vayuputras. ",
+          "reviews": ["excellent", "good", "not bad", "very bad"],
+          "price": 199,
+          "section": "mythology",
+          "isbnNumber":253421,
+          "id": 14
+      },
+      {
+          "title": "Sita: Warrior of Mithila",
+          "author": "Amish Tripathi",
+          "imageUrl": "https://upload.wikimedia.org/wikipedia/en/0/03/Sita_Warrior_of_Mithila_cover.jpg",
+          "description": "Sita: Warrior of Mithila is the fifth book of Amish Tripathi, fifth book of Amishverse, and second book of Ram Chandra Series. It was released on 29 May 2017. Ram Chandra Series is a retelling of the most famous epic of India, the Ramayana. Each book in the series focuses on one important character of the Ramayana. Sita: Warrior of Mithila focuses on the story of Sita",
+          "reviews": ["excellent", "good", "not bad", "very bad"],
+          "price": 800,
+          "section": "mythology",
+          "isbnNumber":253421,
+          "id": 15
+      },
+      {
+          "title": "Life 3.0",
+          "author": "Max Tegmark",
+          "imageUrl": "https://upload.wikimedia.org/wikipedia/en/4/4e/Cover_of_the_book_Life_3.0.png",
+          "description": "Life 3.0: Being Human in the Age of Artificial Intelligence[1] is a 2017 book by Swedish-American cosmologist Max Tegmark from MIT. Life 3.0 discusses Artificial Intelligence (AI) and its impact on the future of life on Earth and beyond. The book discusses a variety of societal implications, what can be done to maximize the chances of a positive outcome, and potential futures for humanity, technology and combinations thereof.",
+          "reviews": ["excellent", "good", "not bad", "very bad"],
+          "price": 100,
+          "section": "technology",
+          "isbnNumber":253421,
+          "id": 16
+      },
+      {
+          "title": "Elon Musk",
+          "author": "Ashlee Vance",
+          "imageUrl": "https://upload.wikimedia.org/wikipedia/en/a/a8/Elon_Musk_-_Tesla%2C_SpaceX%2C_and_the_Quest_for_a_Fantastic_Future.jpg",
+          "description": "Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future is Ashlee Vance's biography of Elon Musk, published in 2015. The book traces Elon Musk's life from his childhood up to the time he spent at Zip2 and PayPal, and then onto SpaceX, Tesla, and SolarCity. In the book, Vance managed to get regular interviews with Musk, those close to him, and those who were with him at the most important points of his life; Musk had no control over the biography's contents",
+          "reviews": ["excellent", "good", "not bad", "very bad"],
+          "price": 200,
+          "section": "technology",
+          "isbnNumber":253421,
+          "id": 17
+      },
+      {
+          "title": "Steve Jobs",
+          "author": "Walter Isaacson",
+          "imageUrl": "https://upload.wikimedia.org/wikipedia/en/e/e4/Steve_Jobs_by_Walter_Isaacson.jpg",
+          "description": "Steve Jobs is the authorized self-titled biography of American business magnate and Apple co-founder Steve Jobs. The book was written at the request of Jobs by Walter Isaacson, a former executive at CNN and TIME who has written best-selling biographies of Benjamin Franklin and Albert Einstein.",
+          "reviews": ["excellent", "good", "not bad", "very bad"],
+          "price": 600,
+          "section": "technology",
+          "isbnNumber":253421,
+          "id": 18
+      },
+      {
+          "title": "The Innovators",
+          "author": "Walter Isaacson",
+          "imageUrl": "https://upload.wikimedia.org/wikipedia/en/1/10/Innovators_book_cover.jpg",
+          "description": "The Innovators: How a Group of Hackers, Geniuses, and Geeks Created the Digital Revolution is an overview of the history of computer science and the Digital Revolution. It was written by Walter Isaacson, and published in 2014 by Simon & Schuster.",
+          "reviews": ["excellent", "good", "not bad", "very bad"],
+          "price": 300,
+          "section": "technology",
+          "isbnNumber":253421,
+          "id": 19
+      },
+      {
+          "title": "Uncanny Valley",
+          "author" : "Anna Wiener",
+          "imageUrl": "https://upload.wikimedia.org/wikipedia/en/2/2a/Uncanny_Valley_%28Anna_Wiener%29.png",
+          "description": "Uncanny Valley is a 2020 memoir by writer Anna Wiener. The book focuses on Wiener's transition from the publishing industry to a series of jobs at technology companies, and her gradual disillusionment with the technology industry.",
+          "reviews": ["excellent", "good", "not bad", "very bad"],
+          "price": 500,
+          "section": "technology",
+          "isbnNumber":253421,
+          "id": 20
+      }
+  ]
+}
